@@ -2,4 +2,12 @@
 !.gitignore
 !index.html
 !todays_name.png
-
+!exhibit/
+exhibit/*
+!exhibit/macskusz_exhibit.py
+!exhibit/macskusz_exhibit_pipeline.ipynb
+!denver_exhibition/
+denver_exhibition/runs/
+denver_exhibition/__pycache__/
+denver_exhibition/.DS_Store
+version.txt
